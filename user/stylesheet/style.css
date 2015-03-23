@@ -1,0 +1,30 @@
+.button {
+    padding-left: 50px;
+    padding-top: 60px;
+    background-color: #eee;
+}
+h3.text {
+    margin-left: 140px;
+}
+h3 {
+    margin-top: 0px;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+td {
+    padding: 0px 5px;
+}
+#outcome {
+    padding-left: 190px;
+    font-weight: bold;
+}
+.win {
+    background-color: #C6E2FF;
+}
+.lose {
+    background-color: #FA8072;
+}
+.tie {
+    background-color: #D3FFCE;
+}
